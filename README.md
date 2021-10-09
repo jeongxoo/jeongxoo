@@ -1,5 +1,4 @@
-### Hi there 👋
-### I love egg mayo 👍🏻
+![jeongxoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongxoo&show_icons=true&theme=gotham)
 
 <!--
 **jeongxoo/jeongxoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
