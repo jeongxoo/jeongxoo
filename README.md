@@ -1,12 +1,13 @@
 ![jeongxoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongxoo&show_icons=true&theme=gotham)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=withData)](https://github.com/jeongxoo/withData)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=gaziGazi)](https://github.com/jeongxoo/gaziGazi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Oven)](https://github.com/jeongxoo/Oven)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Have_a_nice_day)](https://github.com/jeongxoo/Have_a_nice_day)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Jeongorithm)](https://github.com/jeongxoo/Jeongorithm)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Catch_Me_If_You_Can)](https://github.com/jeongxoo/Catch_Me_If_You_Can)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=NumBot)](https://github.com/jeongxoo/NumBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=withData&theme=gotham)](https://github.com/jeongxoo/withData)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=gaziGazi&theme=gotham)](https://github.com/jeongxoo/gaziGazi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Oven&theme=gotham)](https://github.com/jeongxoo/Oven)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Have_a_nice_day&theme=gotham)](https://github.com/jeongxoo/Have_a_nice_day)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Jeongorithm&theme=gotham)](https://github.com/jeongxoo/Jeongorithm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Catch_Me_If_You_Can&theme=gotham)](https://github.com/jeongxoo/Catch_Me_If_You_Can)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=NumBot&theme=gotham)](https://github.com/jeongxoo/NumBot)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongxoo&layout=compact&theme=gotham)](https://github.com/jeongxoo/github-readme-stats)
 
 
 <!--
