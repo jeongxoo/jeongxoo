@@ -1,9 +1,17 @@
-# :yum: Who am I?
 
-# :black_joker: My trump card
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Cpp-00599C?style=flat-square&logo=Cpp&logoColor=black"/></a>
+<h1 align="center"> :black_joker: My trump card :black_joker: </h1>
+
+<p align = "center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Csharp-239120?style=flat-square&logo=Csharp&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=Elastic&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Spark
+-E25A1C?style=flat-square&logo=Spark
+&logoColor=black"/></a>
+
+</p>
 
 # :video_game: Projects that I played
 
