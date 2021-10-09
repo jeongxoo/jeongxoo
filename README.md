@@ -1,6 +1,9 @@
 # :yum: Who am I?
 
 # :black_joker: My trump card
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Cpp-00599C?style=flat-square&logo=Cpp&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Csharp-239120?style=flat-square&logo=Csharp&logoColor=black"/></a>
 
 # :video_game: Projects that I played
 
