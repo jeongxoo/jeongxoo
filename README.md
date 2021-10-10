@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flatsquare&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Csharp-239120?style=flatsquare&logo=Csharp&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flatsquare&logo=C&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Java-007396?style=flatsquare&logo=Java&logoColor=white"/></a>
     <br>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flatsquare&logo=Jupyter&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=flatsquare&logo=ApacheSpark&logoColor=white"/></a>
@@ -19,6 +20,11 @@
   <img src="https://img.shields.io/badge/Logstash-FF9E0F?style=flatsquare&logo=Logstash&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/ElasticSearch-31A8FF?style=flatsquare&logo=ElasticSearch&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Kibana-EF2D5E?style=flatsquare&logo=Kibana&logoColor=white"/></a>
+    <br>
+  <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flatsquare&logo=UnrealEngine&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flatsquare&logo=Unity&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flatsquare&logo=Django&logoColor=white"/></a>
+ 
 </p>
 
 
