@@ -2,16 +2,26 @@
 <h1 align="center"> :black_joker: My trump card :black_joker: </h1>
 
 <p align = "center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Csharp-239120?style=flat-square&logo=Csharp&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=Elastic&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Spark
--E25A1C?style=flat-square&logo=Spark
-&logoColor=black"/></a>
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flatsquare&logo=Python&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flatsquare&logo=C%2B%2B&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Csharp-239120?style=flatsquare&logo=Csharp&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flatsquare&logo=C&logoColor=white"/></a>
+    <br>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flatsquare&logo=Jupyter&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flatsquare&logo=ApacheSpark&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flatsquare&logo=Docker&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flatsquare&logo=Tensorflow&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flatsquare&logo=GoogleColab&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flatsquare&logo=GoogleCloud&logoColor=white"/></a>
+    <br>
+  <img src="https://img.shields.io/badge/ElasticStack-005571?style=flatsquare&logo=ElasticStack&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Beats-004088?style=flatsquare&logo=Beats&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Logstash-FF9E0F?style=flatsquare&logo=Logstash&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/ElasticSearch-31A8FF?style=flatsquare&logo=ElasticSearch&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Kibana-EF2D5E?style=flatsquare&logo=Kibana&logoColor=white"/></a>
 </p>
+
+
 
 # :video_game: Projects that I played
 
