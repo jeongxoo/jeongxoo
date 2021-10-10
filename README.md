@@ -1,6 +1,10 @@
+<h1 align="center">🌊 정수는 Integer  </h1>
+<p align = "center">
+  하이
+<p>
+
 
 <h1 align="center"> :black_joker: My trump card :black_joker: </h1>
-
 <p align = "center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flatsquare&logo=Python&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/C++-00599C?style=flatsquare&logo=C%2B%2B&logoColor=white"/></a>
@@ -24,7 +28,6 @@
   <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flatsquare&logo=UnrealEngine&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Unity-000000?style=flatsquare&logo=Unity&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Django-092E20?style=flatsquare&logo=Django&logoColor=white"/></a>
- 
 </p>
 
 
