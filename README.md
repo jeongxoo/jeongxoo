@@ -1,9 +1,11 @@
-<h1 align="center">🌊 정수는 Integer  </h1>
+<h1 align="center"> ⭐️ Insights : 📚 Data = 🎮 Game : 📝 Rules </h1>
+
+
 <p align = "center">  
-    <img src="https://user-images.githubusercontent.com/56291884/136737138-8b78d7d7-b270-4d0b-83f4-dd2a16027689.png" width="550" height="80" ></a> 
+🌊 정수는 Integer<!--     <img src="https://user-images.githubusercontent.com/56291884/136737138-8b78d7d7-b270-4d0b-83f4-dd2a16027689.png" width="550" height="80" ></a>  -->
 
 </p>
-
+<br>
 <h1 align="center"> :black_joker: My trump card :black_joker: </h1>
 <p align = "center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flatsquare&logo=Python&logoColor=white"/></a> 
@@ -29,6 +31,7 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=flatsquare&logo=Unity&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Django-092E20?style=flatsquare&logo=Django&logoColor=white"/></a>
 </p>
+<br>
 
 
 
