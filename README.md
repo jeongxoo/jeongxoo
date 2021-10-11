@@ -1,8 +1,7 @@
 <h1 align="center">🌊 정수는 Integer  </h1>
-<p align = "center">
-  하이
-<p>
-
+<p align = "center">  
+    <img src="https://user-images.githubusercontent.com/56291884/136737138-8b78d7d7-b270-4d0b-83f4-dd2a16027689.png" width="550" height="80" ></a> 
+</p>
 
 <h1 align="center"> :black_joker: My trump card :black_joker: </h1>
 <p align = "center">
