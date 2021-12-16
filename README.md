@@ -1,10 +1,10 @@
-<h1 align="center"> ⭐️ Insights : 📚 Data = 🎮 Game : 📝 Rules </h1>
+<!-- <h1 align="center"> ⭐️ Insights : 📚 Data = 🎮 Game : 📝 Rules </h1> -->
 
 
-<p align = "center">  
-🌊 정수는 Integer<!--     <img src="https://user-images.githubusercontent.com/56291884/136737138-8b78d7d7-b270-4d0b-83f4-dd2a16027689.png" width="550" height="80" ></a>  -->
+<!-- <p align = "center">   -->
+<!-- 🌊 정수는 Integer<!--     <img src="https://user-images.githubusercontent.com/56291884/136737138-8b78d7d7-b270-4d0b-83f4-dd2a16027689.png" width="550" height="80" ></a>  -->
 
-</p>
+<!-- </p>
 <br>
 <h1 align="center"> :black_joker: My trump card :black_joker: </h1>
 <p align = "center">
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=flatsquare&logo=Unity&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Django-092E20?style=flatsquare&logo=Django&logoColor=white"/></a>
 </p>
-<br>
+<br> -->
 
 
 
@@ -41,16 +41,16 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=gaziGazi&theme=dark)](https://github.com/jeongxoo/gaziGazi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Oven&theme=dark)](https://github.com/jeongxoo/Oven)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Have_a_nice_day&theme=dark)](https://github.com/jeongxoo/Have_a_nice_day)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Jeongorithm&theme=dark)](https://github.com/jeongxoo/Jeongorithm)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Jeongorithm&theme=dark)](https://github.com/jeongxoo/Jeongorithm) -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Catch_Me_If_You_Can&theme=dark)](https://github.com/jeongxoo/Catch_Me_If_You_Can)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=NumBot&theme=dark)](https://github.com/jeongxoo/NumBot)
  
-# :computer: History,,,?
+# :computer: History,,
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongxoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 ![jeongxoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongxoo&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongxoo&layout=compact&theme=dark)](https://github.com/jeongxoo/github-readme-stats)
 
- 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongxoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <!--
 **jeongxoo/jeongxoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
