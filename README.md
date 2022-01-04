@@ -41,10 +41,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=gaziGazi&theme=dark)](https://github.com/jeongxoo/gaziGazi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Oven&theme=dark)](https://github.com/jeongxoo/Oven)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Have_a_nice_day&theme=dark)](https://github.com/jeongxoo/Have_a_nice_day)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Jeongorithm&theme=dark)](https://github.com/jeongxoo/Jeongorithm) -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Catch_Me_If_You_Can&theme=dark)](https://github.com/jeongxoo/Catch_Me_If_You_Can)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=NumBot&theme=dark)](https://github.com/jeongxoo/NumBot)
- 
+ <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Jeongorithm&theme=dark)](https://github.com/jeongxoo/Jeongorithm) -->
+
 # :computer: History,,
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongxoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
