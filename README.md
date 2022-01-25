@@ -41,8 +41,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=gaziGazi&theme=dark)](https://github.com/jeongxoo/gaziGazi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Oven&theme=dark)](https://github.com/jeongxoo/Oven)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Have_a_nice_day&theme=dark)](https://github.com/jeongxoo/Have_a_nice_day)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Catch_Me_If_You_Can&theme=dark)](https://github.com/jeongxoo/Catch_Me_If_You_Can)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=NumBot&theme=dark)](https://github.com/jeongxoo/NumBot)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Catch_Me_If_You_Can&theme=dark)](https://github.com/jeongxoo/Catch_Me_If_You_Can) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=NumBot&theme=dark)](https://github.com/jeongxoo/NumBot) -->
  <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeongxoo&repo=Jeongorithm&theme=dark)](https://github.com/jeongxoo/Jeongorithm) -->
 
 # :computer: History,,
